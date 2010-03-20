@@ -1,0 +1,9 @@
+ABOUT
+TMBackuper will let you do Time Machine backups to a mountable network drive
+when you want it.
+
+CONFIGURE
+Edit the variables in the ruby script
+
+RUN
+Execute "ruby TMBackuper.rb" and wait.
